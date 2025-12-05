@@ -1,0 +1,12 @@
+{
+  "name": "allstar-talent-bot",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.77.0",
+    "@upstash/redis": "^1.34.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
